@@ -49,7 +49,7 @@ This analysis helps businesses understand how pricing impacts customer ratings a
 ---
 
 ## **🎥 Video Walkthrough**  
-I have created a **video explanation** that walks through the code, explaining each step in detail. You can watch it here: [[Upload Link](https://github.com/Dushii25/Level1_Task2/blob/main/Task2%20(1).mp4)]  
+I have created a **video explanation** that walks through the code, explaining each step in detail. You can watch it here: [[Click](https://github.com/Dushii25/Level1_Task2/blob/main/Task2%20(1).mp4)]  
 
 ---
 
